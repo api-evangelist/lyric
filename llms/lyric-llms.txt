@@ -1,0 +1,21 @@
+# Lyric
+
+> Lyric is an AI-powered supply chain software company (founded 2022) whose Lyric Studio platform lets enterprises model, plan, and optimize their supply chains across four layers — Data, Algorithms, Workflows, and Models & Apps. Capabilities span network modeling, transportation optimization, inventory management, forecasting, routing, and scheduling. Lyric is a portfolio company of Insight Partners. No public developer API surface is published; the product documentation at docs.lyric.tech is gated behind a Lyric Studio login.
+
+## Company
+- [Website](https://lyric.tech/): Company homepage.
+- [Company](https://lyric.tech/company): About Lyric and the platform.
+- [Blog & Whitepapers](https://lyric.tech/blogs-and-whitepapers): Articles and long-form resources.
+- [Careers](https://jobs.ashbyhq.com/lyric): Open roles (Ashby).
+
+## Product
+- [Lyric Studio](https://lyric.tech/): Unified platform for modeling, planning, and frontier intelligence.
+- [Documentation (gated)](https://docs.lyric.tech/): Product docs behind a Lyric Studio login — no public API reference.
+
+## Security & Trust
+- [Security & Trust Portal](https://security.lyric.tech/): SafeBase trust center — SOC 2 (Type 2), SOC 3, ISO/IEC 27001, GDPR, CCPA, CPRA, CSA STAR Level 1.
+- Responsible disclosure: security@lyric.tech (SafeBase Responsible Disclosure).
+
+## Legal
+- [Privacy Policy](https://lyric.tech/legal/privacy-policy)
+- [Terms of Service](https://lyric.tech/legal/terms-of-service)

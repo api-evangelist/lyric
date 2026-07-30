@@ -1,0 +1,28 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://security.lyric.tech/
+url: https://security.lyric.tech/
+provider: SafeBase by Drata
+certifications:
+- SOC 2 (Type 2)
+- SOC 3
+- ISO/IEC 27001
+- GDPR
+- CCPA
+- CPRA
+- CSA STAR Level 1
+governance:
+- CyberSecurity Steering Committee (CSSC)
+- Information security policies reviewed and audited annually
+evidence:
+- source: https://security.lyric.tech/
+  keywords:
+  - soc 2
+  - soc 3
+  - iso/iec 27001
+  - gdpr
+  - ccpa
+  - cpra
+  - csa star level 1
+  - safebase
