@@ -1,7 +1,30 @@
 aid: lyric
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lyric.png
 name: Lyric
-description: Lyric is a company surfaced as a portfolio company of insight-partners and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Lyric is an AI-powered supply chain software company, founded in 2022 and
+  backed by Insight Partners. Its Lyric Studio platform lets enterprises model,
+  plan, and optimize their supply chains across four composable layers — Data
+  (enterprise-grade data management and integrations), Algorithms (advanced
+  supply chain science), Workflows (flexible, composable processes), and Models
+  & Apps (ready-to-use applications). The platform spans network modeling,
+  transportation optimization, inventory management, forecasting, routing, and
+  scheduling. Lyric does not publish a public developer API surface; its product
+  documentation at docs.lyric.tech is gated behind a Lyric Studio login. It does
+  operate a public SafeBase security and trust portal documenting SOC 2, SOC 3,
+  ISO/IEC 27001, GDPR, CCPA, CPRA, and CSA STAR Level 1 posture plus a
+  responsible disclosure program.
 url: https://raw.githubusercontent.com/api-evangelist/lyric/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +34,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Supply Chain
+- Logistics
+- Artificial Intelligence
+- Optimization
+- Forecasting
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,28 @@ maintainers:
 common:
 - type: Website
   url: https://lyric.tech/
+- type: Company
+  url: https://lyric.tech/company
+- type: Blog
+  url: https://lyric.tech/blogs-and-whitepapers
+- type: TermsOfService
+  url: https://lyric.tech/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://lyric.tech/legal/privacy-policy
+- type: TrustCenter
+  url: security/lyric-trust-center.yml
+- type: Compliance
+  url: https://security.lyric.tech/
+- type: Security
+  url: https://security.lyric.tech/
+- type: VulnerabilityDisclosure
+  url: security/lyric-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/lyric-domain-security.yml
+- type: LLMsTxt
+  url: llms/lyric-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
